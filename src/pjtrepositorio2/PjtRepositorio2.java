@@ -18,6 +18,8 @@ public class PjtRepositorio2 {
         // TODO code application logic here
         System.out.println("Hola mundo como estan");
         System.out.println("Hola mundo actualizado");
+        System.out.println("Hola mundo github");
+
     }
     
 }
