@@ -19,6 +19,10 @@ public class PjtRepositorio2 {
         System.out.println("Hola mundo como estan");
         System.out.println("Hola mundo actualizado");
         System.out.println("Hola mundo github");
+        System.out.println("Hola mundo como estan 1111");
+        
+        System.out.println("version");
+
 
     }
     
